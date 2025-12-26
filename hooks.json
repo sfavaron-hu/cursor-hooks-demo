@@ -6,10 +6,5 @@
         "command": "./hooks/beforePromptSubmit.sh; node ./hooks/prevent-destructive-op.js"
       }
     ]
-    // "afterMCPExecution": [
-    //   {
-    //     "command": "./hooks/afterMCPExecution.sh"
-    //   }
-    // ]
   }
 }
